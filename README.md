@@ -1,4 +1,4 @@
 # mind-map
 
-* [CSS]
-* [HTTP]
+* CSS
+* HTTP
